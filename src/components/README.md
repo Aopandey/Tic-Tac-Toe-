@@ -1,2 +1,3 @@
 # What is this Project?
 
+This project is a web-based Tic-Tac-Toe game developed with React, featuring components like `Player`, `Game`, `Log`, and `GameOver` to manage gameplay, player interactions, and state. It uses a dynamic game board initialized and updated through React's state management, with logic to check for winners based on predefined combinations. Styled extensively with CSS, the design includes animations, gradients, and custom fonts to enhance user experience. The application demonstrates the practical use of React's capabilities in handling complex state changes and user interactions in a visually appealing interactive game.
